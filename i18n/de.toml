@@ -5,7 +5,7 @@ other = "Mehr"
 other = "Alle {{.Title }}"
 
 [recentTitle]
-other = "Neueste {{.Title }}"
+other = "Das Neueste von {{.Title }}"
 
 [readMore]
 other = "weiterlesen"
@@ -14,7 +14,7 @@ other = "weiterlesen"
 other = "Von"
 
 [whatsInThis]
-other = "Was ist in dieser {{ .Type }}"
+other = "Was ist in diesem Eintrag?"
 
 [related]
 other = "Ähnliches"
